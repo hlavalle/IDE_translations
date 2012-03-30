@@ -70,7 +70,7 @@ msgstr ""
 
 #: Base.java:529
 msgid "Time for a Break"
-msgstr "Hora de uma pause"
+msgstr "Hora de uma pausa"
 
 #: Base.java:530
 msgid ""
@@ -1408,10 +1408,12 @@ msgid ""
 "A new version of Arduino is available,\n"
 "would you like to visit the Arduino download page?"
 msgstr ""
+"Uma nova versão de Arduino está disponível,\n"
+"gostaria de visitar a página de download?"
 
 #: UpdateCheck.java:111
 msgid "Update"
-msgstr ""
+msgstr "Atualizar"
 
 #: UpdateCheck.java:118
 msgid "http://www.arduino.cc/en/Main/Software"
