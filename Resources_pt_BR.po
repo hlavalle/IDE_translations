@@ -1055,20 +1055,25 @@ msgid ""
 "need to re-save the sketch in another location,\n"
 "and try again."
 msgstr ""
+"Alguns arquivos estão marcados como \"somente leitura\".\n"
+"Você deverá salvar novamente o sketch em outro lugar,\n"
+"e tentar novamente."  
 
 #: Sketch.java:286
 msgid "Name for new file:"
-msgstr ""
+msgstr "Nome para o novo arquivo:"
 
 #: Sketch.java:298
 msgid "Sketch is Untitled"
-msgstr ""
+msgstr "Sketch está sem Título"
 
 #: Sketch.java:299
 msgid ""
 "How about saving the sketch first \n"
 "before trying to rename it?"
 msgstr ""
+"Que tal salvar o sketch antes \n"
+"de tentar renomeá-lo?"
 
 #: Sketch.java:359 Sketch.java:366 Sketch.java:377
 msgid "Problem with rename"
@@ -1076,12 +1081,12 @@ msgstr ""
 
 #: Sketch.java:360
 msgid "The name cannot start with a period."
-msgstr ""
+msgstr "O nome não pode iniciar com um ponto."
 
 #: Sketch.java:368
 #, java-format
 msgid "\".{0}\" is not a valid extension."
-msgstr ""
+msgstr "\".{0}\" não é uma extensão válida."
 
 #: Sketch.java:378
 msgid ""
@@ -1089,19 +1094,22 @@ msgid ""
 "(It may be time for your to graduate to a\n"
 "\"real\" programming environment)"
 msgstr ""
+"O arquivo principal não pode ter uma extensão.\n"
+"(Talvez seja o momento para aprender um\n"
+"ambiente \"real\" de programação)"
 
 #: Sketch.java:400 Sketch.java:414 Sketch.java:423 Sketch.java:863
 msgid "Nope"
-msgstr ""
+msgstr "Não"
 
 #: Sketch.java:402
 #, java-format
 msgid "A file named \"{0}\" already exists in \"{1}\""
-msgstr ""
+msgstr "Um arquivo com o nome \"{0}\" já existe em \"{1}\""
 
 #: Sketch.java:415
 msgid "You can't have a .cpp file with the same name as the sketch."
-msgstr ""
+msgstr "Você não pode definir um arquivo .cpp com o mesmo nome do sketch."
 
 #: Sketch.java:425
 msgid ""
