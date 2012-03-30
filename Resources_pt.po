@@ -804,41 +804,43 @@ msgstr ""
 
 #: EditorConsole.java:152
 msgid "Console Error"
-msgstr ""
+msgstr "Erro na console"
 
 #: EditorConsole.java:153
 msgid ""
 "A problem occurred while trying to open the\n"
 "files used to store the console output."
 msgstr ""
+"Ocorreu um problema tentando abrir os arquivos\n"
+"utilizados para gravar a saída da console."
 
 #: EditorHeader.java:292
 msgid "New Tab"
-msgstr ""
+msgstr "Nova Aba"
 
 #: EditorHeader.java:300
 msgid "Rename"
-msgstr ""
+msgstr "Renomear"
 
 #: EditorHeader.java:314 Sketch.java:595
 msgid "Delete"
-msgstr ""
+msgstr "Apagar"
 
 #: EditorHeader.java:326
 msgid "Previous Tab"
-msgstr ""
+msgstr "Aba Anterior"
 
 #: EditorHeader.java:340
 msgid "Next Tab"
-msgstr ""
+msgstr "Próxima Aba"
 
 #: EditorToolbar.java:41 EditorToolbar.java:46
 msgid "Verify"
-msgstr ""
+msgstr "Verificar"
 
 #: EditorToolbar.java:41
 msgid "Open"
-msgstr ""
+msgstr "Abrir"
 
 #: EditorToolbar.java:46
 msgid "New Editor Window"
@@ -846,47 +848,47 @@ msgstr ""
 
 #: EditorToolbar.java:46
 msgid "Open in Another Window"
-msgstr ""
+msgstr "Abrir em Outra Janela"
 
 #: FindReplace.java:80
 msgid "Find:"
-msgstr ""
+msgstr "Buscar:"
 
 #: FindReplace.java:81
 msgid "Replace with:"
-msgstr ""
+msgstr "Substituir por:"
 
 #: FindReplace.java:96
 msgid "Ignore Case"
-msgstr ""
+msgstr "Ignorar Maiúsculas\Minúsculas"
 
 #: FindReplace.java:105
 msgid "Wrap Around"
-msgstr ""
+msgstr "Pesquisa Circular"
 
 #: FindReplace.java:120 FindReplace.java:131
 msgid "Replace All"
-msgstr ""
+msgstr "Substituir Tudo"
 
 #: FindReplace.java:121 FindReplace.java:130 Sketch.java:1050
 msgid "Replace"
-msgstr ""
+msgstr "Substituir"
 
 #: FindReplace.java:122 FindReplace.java:129
 msgid "Replace & Find"
-msgstr ""
+msgstr "Substituir e Buscar"
 
 #: FindReplace.java:123 FindReplace.java:128
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 #: FindReplace.java:124 FindReplace.java:127
 msgid "Find"
-msgstr ""
+msgstr "Buscar"
 
 #: Platform.java:167
 msgid "No launcher available"
-msgstr ""
+msgstr "Nenhum lançador disponível"
 
 #: Platform.java:168
 msgid ""
